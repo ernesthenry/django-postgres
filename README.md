@@ -43,7 +43,7 @@ virtualenv venv
 Once your virtual environment is active, you can install Django with pip . We will also install the psycopg2 package that will allow us to use the database we configured:
 
 ```
-pip install django psycopg2
+pip3 install django psycopg2
 ```
 
 ### Install requirements from the requirements.txt file:
